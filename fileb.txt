@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "fileb.txt" 
 version 1
+=======
+"Fileb" 
+>>>>>>> feature
