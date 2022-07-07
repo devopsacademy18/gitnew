@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-"Filec" 
-=======
+
 "version2" 
->>>>>>> feature
